@@ -1,0 +1,190 @@
+[18-Jun-2017 22:16:20 America/Panama] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /Applications/MAMP/htdocs/platea-3/install/index.php:20) in /Applications/MAMP/htdocs/platea-3/objects/include_config.php on line 27
+[18-Jun-2017 22:16:22 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[18-Jun-2017 22:16:28 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[18-Jun-2017 22:16:55 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[18-Jun-2017 22:30:18 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpaZyero -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[18-Jun-2017 22:30:18 America/Panama] Duration founded: EE:EE:EE
+[19-Jun-2017 03:30:18 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5947454a64cc46.65300370.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_videoPrueba_5947454a64cc46.65300370 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5947454a64cc46.65300370.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[18-Jun-2017 22:31:07 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[18-Jun-2017 22:31:09 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[18-Jun-2017 22:31:10 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[18-Jun-2017 22:31:22 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpgQr88a -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[18-Jun-2017 22:31:22 America/Panama] Duration founded: EE:EE:EE
+[19-Jun-2017 03:31:22 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/video2_5947458a99c1d8.89900059.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_video2_5947458a99c1d8.89900059 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/video2_5947458a99c1d8.89900059.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[18-Jun-2017 22:48:25 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[18-Jun-2017 23:10:06 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[18-Jun-2017 23:10:42 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[18-Jun-2017 23:22:53 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 00:02:43 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 00:29:33 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 00:29:34 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 00:29:35 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 00:29:36 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 01:07:27 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 01:07:54 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 01:08:17 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 01:08:20 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 01:08:37 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 11:37:29 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpuiO76A -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 11:37:29 America/Panama] Duration founded: EE:EE:EE
+[19-Jun-2017 16:37:29 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5947fdc9506862.35788534.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_videoPrueba_5947fdc9506862.35788534 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5947fdc9506862.35788534.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 16:37:53 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5947fdc9506862.35788534.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_videoPrueba_5947fdc9506862.35788534 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5947fdc9506862.35788534.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 11:38:23 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 11:38:24 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 11:49:28 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 11:49:29 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 12:43:29 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/php45DGyl -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 12:43:29 America/Panama] Duration founded: EE:EE:EE
+[19-Jun-2017 17:43:29 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/video2_59480d4171d834.66474862.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_video2_59480d4171d834.66474862 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/video2_59480d4171d834.66474862.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 12:43:40 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 12:43:41 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 12:43:41 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 12:43:42 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 12:45:03 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 13:27:46 America/Panama] PHP Notice:  Undefined variable: img in /Applications/MAMP/htdocs/platea-3/view/modeYoutube.php on line 132
+[19-Jun-2017 13:45:01 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/php04FoBC -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 13:45:01 America/Panama] Duration founded: EE:EE:EE
+[19-Jun-2017 18:45:02 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/video2_59481badde3f06.44464430.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_video2_59481badde3f06.44464430 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/video2_59481badde3f06.44464430.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 13:49:35 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpjkDwbd -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 13:49:35 America/Panama] Duration founded: EE:EE:EE
+[19-Jun-2017 18:49:35 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/video2_59481cbf1cc5e5.76890775.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_video2_59481cbf1cc5e5.76890775 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/video2_59481cbf1cc5e5.76890775.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 13:59:13 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpq2j0pt -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 13:59:13 America/Panama] Duration founded: EE:EE:EE
+[19-Jun-2017 18:59:14 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/video2_59481f01ed6179.69459230.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_video2_59481f01ed6179.69459230 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/video2_59481f01ed6179.69459230.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 20:11:59 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpzyu4KA -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 20:11:59 America/Panama] Duration founded: EE:EE:EE
+[20-Jun-2017 01:11:59 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/video2_5948765f3f0dd0.84356447.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_video2_5948765f3f0dd0.84356447 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/video2_5948765f3f0dd0.84356447.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 20:53:33 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpqSws71 -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 20:53:33 America/Panama] Duration founded: EE:EE:EE
+[20-Jun-2017 01:53:34 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/video2_5948801ddd5031.29893418.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_video2_5948801ddd5031.29893418 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/video2_5948801ddd5031.29893418.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 22:52:30 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpCTWH8B -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 22:52:30 America/Panama] Duration founded: EE:EE:EE
+[20-Jun-2017 03:52:30 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/video2_59489bfe461086.68613775.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_video2_59489bfe461086.68613775 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/video2_59489bfe461086.68613775.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 23:04:41 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpb2MCZC -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 23:04:41 America/Panama] Duration founded: EE:EE:EE
+[20-Jun-2017 04:04:41 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_59489ed9539646.67412138.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_videoPrueba_59489ed9539646.67412138 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_59489ed9539646.67412138.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 23:10:01 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpKtgihi -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 23:10:01 America/Panama] Duration founded: EE:EE:EE
+[20-Jun-2017 04:10:01 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a0198683c9.40286557.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_videoPrueba_5948a0198683c9.40286557 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a0198683c9.40286557.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 23:12:17 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpZ8CZpV -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 23:12:17 America/Panama] Duration founded: EE:EE:EE
+[20-Jun-2017 04:12:17 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a0a1712122.50600601.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_videoPrueba_5948a0a1712122.50600601 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a0a1712122.50600601.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 23:16:29 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpOvMILm -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 23:16:29 America/Panama] Duration founded: EE:EE:EE
+[20-Jun-2017 04:16:29 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a19db97983.84201149.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_videoPrueba_5948a19db97983.84201149 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a19db97983.84201149.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 23:20:46 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpYPAzzy -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 23:20:46 America/Panama] Duration founded: EE:EE:EE
+[20-Jun-2017 04:20:47 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a29ec6f9d6.33136150.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_videoPrueba_5948a29ec6f9d6.33136150 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a29ec6f9d6.33136150.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 23:29:44 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpVHx0Bu -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 23:29:44 America/Panama] Duration founded: EE:EE:EE
+[20-Jun-2017 04:29:44 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a4b897e434.31194411.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_videoPrueba_5948a4b897e434.31194411 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a4b897e434.31194411.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 23:46:18 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpbdEWHH -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 23:46:18 America/Panama] Duration founded: EE:EE:EE
+[20-Jun-2017 04:46:18 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a89abff899.89081541.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_videoPrueba_5948a89abff899.89081541 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a89abff899.89081541.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[19-Jun-2017 23:47:51 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phpL2bK5Y -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[19-Jun-2017 23:47:51 America/Panama] Duration founded: EE:EE:EE
+[20-Jun-2017 04:47:51 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a8f77ca393.57183531.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_videoPrueba_5948a8f77ca393.57183531 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/videoPrueba_5948a8f77ca393.57183531.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[03-Feb-2018 19:09:42 America/Panama] {"status":"error", "msg":["sh: ffprobe: command not found"] ,"return_val":127, "where":"getDuration", "cmd":"ffprobe -i /Applications/MAMP/tmp/php/phprwMFeb -sexagesimal -show_entries  format=duration -v quiet -of csv='p=0'"}
+[03-Feb-2018 19:09:42 America/Panama] Duration founded: EE:EE:EE
+[04-Feb-2018 00:09:43 UTC] rm -f /Applications/MAMP/htdocs/platea-3/videos/video2_5a764f46bebe30.98021676.jpg && ffmpeg -ss 5 -i /Applications/MAMP/htdocs/platea-3/videos/original_video2_5a764f46bebe30.98021676 -qscale:v 2 -vframes 1 -y /Applications/MAMP/htdocs/platea-3/videos/video2_5a764f46bebe30.98021676.jpg
+Array
+(
+    [0] => sh: ffmpeg: command not found
+)
+
+[03-Feb-2018 19:09:57 America/Panama] PHP Notice:  Trying to get property of non-object in /Applications/MAMP/htdocs/platea-3/view/mini-upload-form/upload-json.php on line 16
