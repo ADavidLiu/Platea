@@ -20,8 +20,8 @@ if (!empty($ad)) {
     <!-- Archivos de PlateaPlayer -->
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="http://andresliu.xyz/platea-2/css/PlateaPlayer.css">
-    <script src="http://andresliu.xyz/platea-2/js/player.js"></script>
+    <link rel="stylesheet" href="http://13.59.153.86/archivos/PlateaPlayer.css">
+    <script src="http://13.59.153.86/archivos/player.js"></script>
 
     <!-- Fin de los archivos -->
 
@@ -140,10 +140,14 @@ if ($config->getAutoplay()) {
             path: "<?php echo $global['webSiteRootURL']; ?>videos/<?php echo $playNowVideo['filename']; ?>.mp4",
             json: "<?php echo $video['json']; ?>"
         }
-        var socket = io.connect("https://platea.localtunnel.me"); // Usando "localtunnel" para exponer el servidor ejecutado localmente a internet a través de un subdominio estático
-        var plateaPlayer = new PlateaPlayer(p5, opciones, socket);
-        
-        
+        // Usando "localtunnel" para exponer el servidor ejecutado localmente a internet a través de un subdominio estático
+        //var socket = io.connect("https://platea.localtunnel.me");
+
+        // Usando ngrok cuando el subdominio de localtunnel no funciona
+        var socket = io.connect("http://352fe391.ngrok.io");
+
+        // _paq es el objeto proveído por Matomo que permite hacer seguimiento a los eventos del player
+        var plateaPlayer = new PlateaPlayer(p5, opciones, socket, _paq);
 
         // Ejemplo de utilización de la API
         /*var btnStop = document.getElementById("btnStop");
