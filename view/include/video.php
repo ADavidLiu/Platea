@@ -1,4 +1,12 @@
 <?php
+require_once $global['systemRootPath'] . 'objects/user.php';
+$userID = "usuario-no-login";
+if (User::isLogged()) {
+    $user = new User("");
+    $user->loadSelfUser();
+    $userID = $user->getUser();
+}
+
 $playNowVideo = $video;
 $transformation = "{rotate:" . $video['rotation'] . ", zoom: " . $video['zoom'] . "}";
 if ($video['rotation'] === "90" || $video['rotation'] === "270") {
@@ -147,7 +155,7 @@ if ($config->getAutoplay()) {
         var socket = io.connect("http://352fe391.ngrok.io");
 
         // _paq es el objeto proveído por Matomo que permite hacer seguimiento a los eventos del player
-        var plateaPlayer = new PlateaPlayer(p5, opciones, socket, _paq);
+        var plateaPlayer = new PlateaPlayer(p5, opciones, socket, "<?php echo $userID ?>", "<?php echo $video['title']; ?>", _paq);
 
         // Ejemplo de utilización de la API
         /*var btnStop = document.getElementById("btnStop");
